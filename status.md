@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+Billy Seng
 
 #### Your section leader's name
 
-TODO
+Andrew Rosen
 
 #### Project title
 
-TODO
+Animal Pokedex
 
 ***
 
@@ -18,12 +18,12 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+Learning pygame through friends who have experience and also watching some videos. I really just want to learn how the UI is going to look.
 
 #### What have you not done for your project yet?
 
-TODO
+Not have done actual code yet.
 
 #### What problems, if any, have you encountered?
 
-TODO
+N/A
